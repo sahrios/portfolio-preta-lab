@@ -38,7 +38,7 @@ li{
 
 .lista-menu li>a{
     color:#ffff;
-    font-size: 18px;
+    font-size: 20px;
     text-decoration: inherit;
     display: flex;
     justify-content: space-evenly;
@@ -160,4 +160,10 @@ li{
     margin-bottom:16px;
     display: flex;
     align-items:center;
+}
+
+.formacao{
+    display:flex;
+    flex-direction: column;
+    color: #ffff;
 }
