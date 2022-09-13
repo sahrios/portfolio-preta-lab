@@ -119,6 +119,7 @@ li{
 .lista-descricao{
     font-size: 18px;
     margin-top:5px;
+    margin-bottom: 16px;
     line-height:20px;
     color: #828282;
     font-weight: 300;
@@ -166,4 +167,11 @@ li{
     display:flex;
     flex-direction: column;
     color: #ffff;
+}
+
+.avatar{
+  width: 220px;
+  height: 280px;
+  border-radius: 8px;
+  vertical-align: middle;
 }
