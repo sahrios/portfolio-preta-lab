@@ -30,6 +30,7 @@ li{
 
 }
 
+
 .lista-menu{
     display: flex;
     justify-content:space-evenly;
@@ -43,6 +44,10 @@ li{
     display: flex;
     justify-content: space-evenly;
 
+}
+
+.lista-menu a:hover{
+    color:#6717ad;
 }
 
 .principal{
@@ -78,7 +83,7 @@ li{
 }
 
 .profissao{
-    color:#c1add3;
+    color:#b497ce;
     height: 60px;
 }
 
@@ -169,9 +174,16 @@ li{
     color: #ffff;
 }
 
+
 .avatar{
   width: 220px;
-  height: 280px;
-  border-radius: 8px;
+  height: 220px;
+  border-radius: 50%;
   vertical-align: middle;
+  margin-bottom: 10px;
+  
 }
+
+ a:hover{
+    color: #6717ad;;
+ }
